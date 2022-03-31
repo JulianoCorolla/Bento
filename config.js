@@ -36,14 +36,14 @@ const CONFIG = {
 	defaultLongitude: '-38.5247',
 
 	// Autochange
-	autoChangeTheme: false,
+	autoChangeTheme: true,
 
 	// Autochange by OS
 	changeThemeByOS: false,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
-	changeThemeByHour: false,
-	hourDarkThemeActive: '18:30',
+	changeThemeByHour: true,
+	hourDarkThemeActive: '00:01',
 	hourDarkThemeInactive: '00:00',
 
 	// ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
@@ -140,19 +140,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Estudo',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/playlist?list=PLFNLKOZd9ZgfnYxRqSvVC2F28T8htPh16',
 				},
 				{
 					name: 'Caravan',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/playlist?list=PLFNLKOZd9ZgcUxJCJdGiOo-P1wy5S1Fj6',
 				},
 				{
 					name: 'Psico',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/playlist?list=PLFNLKOZd9ZgfEWkW_Goxw6klGnw-53reD',
 				},
 				{
 					name: 'Randoms',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/playlist?list=PLFNLKOZd9ZgcnqNvLrLatiLK72WfpY25k',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Wolvesville',
+					link: 'https://www.wolvesville.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Mangadex',
+					link: 'https://mangadex.org/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Animekisa',
+					link: 'https://animekisa.tv/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Arch',
+					link: 'https://wiki.archlinux.org/',
 				},
 			],
 		},
