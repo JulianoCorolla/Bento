@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'Vai dormir',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '07c87c666668957fefc40b014322c1b0', // Write here your API Key
@@ -139,16 +139,16 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Estudo',
+					name: 'Chill',
 					link: 'https://www.youtube.com/playlist?list=PLFNLKOZd9ZgfnYxRqSvVC2F28T8htPh16',
 				},
 				{
-					name: 'Caravan',
-					link: 'https://www.youtube.com/playlist?list=PLFNLKOZd9ZgcUxJCJdGiOo-P1wy5S1Fj6',
+					name: 'Ben Eater',
+					link: 'https://www.youtube.com/c/BenEater/playlists',
 				},
 				{
-					name: 'Psico',
-					link: 'https://www.youtube.com/playlist?list=PLFNLKOZd9ZgfEWkW_Goxw6klGnw-53reD',
+					name: 'Akita',
+					link: 'https://www.youtube.com/playlist?list=PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W',
 				},
 				{
 					name: 'Randoms',
