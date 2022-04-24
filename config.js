@@ -214,11 +214,11 @@ const CONFIG = {
 				},
 				{
 					name: 'G Scholar',
-					link: 'libgen',
+					link: 'https://scholar.google.com/',
 				},
 				{
 					name: 'LibGen',
-					link: 'libgen.rs',
+					link: 'https://libgen.rs/',
 				},
 				{
 					name: 'SciHub',
