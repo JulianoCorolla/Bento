@@ -27,7 +27,7 @@ const CONFIG = {
 
 	// Weather
 	weatherKey: '07c87c666668957fefc40b014322c1b0', // Write here your API Key
-	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
+	weatherIcons: 'Moe', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'pt_br', // More languages in https://openweathermap.org/current#multi
 
