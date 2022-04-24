@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'ari',
-			icon: 'graduation-cap',
-			link: 'http://login.aridesa.com.br/',
+			name: '',
+			icon: '',
+			link: '',
 		},
 		{
 			id: '3',
@@ -135,12 +135,12 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'cpu',
 			id: '1',
 			links: [
 				{
-					name: 'Chill',
-					link: 'https://www.youtube.com/playlist?list=PLFNLKOZd9ZgfnYxRqSvVC2F28T8htPh16',
+					name: 'ArchWiki',
+					link: 'https://wiki.archlinux.org/',
 				},
 				{
 					name: 'Ben Eater',
@@ -151,8 +151,8 @@ const CONFIG = {
 					link: 'https://www.youtube.com/playlist?list=PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W',
 				},
 				{
-					name: 'Randoms',
-					link: 'https://www.youtube.com/playlist?list=PLFNLKOZd9ZgcnqNvLrLatiLK72WfpY25k',
+					name: 'Searx',
+					link: 'https://searx.space/',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Wolvesville',
-					link: 'https://www.wolvesville.com/',
+					name: 'Chill',
+					link: 'https://www.youtube.com/watch?v=my_19a4qLhU&list=PLFNLKOZd9ZgfnYxRqSvVC2F28T8htPh16&index=1',
 				},
 				{
 					name: 'Mangadex',
 					link: 'https://mangadex.org/',
 				},
 				{
-					name: 'Animekisa',
-					link: 'https://animekisa.tv/',
+					name: 'Anime',
+					link: 'https://betteranime.net//',
 				},
 				{
-					name: 'Arch',
-					link: 'https://wiki.archlinux.org/',
+					name: 'MAL',
+					link: 'https://myanimelist.net/profile/JulianoCorolla',
 				},
 			],
 		},
@@ -183,46 +183,46 @@ const CONFIG = {
 	// Second Links Container
 	secondListsContainer: [
 		{
-			icon: 'binary',
+			icon: 'globe-2',
 			id: '1',
 			links: [
 				{
-					name: '',
-					link: 'https://www.spotify.com',
+					name: 'Whatsapp',
+					link: 'https://web.whatsapp.com/',
+				},
+				{
+					name: 'Twitter',
+					link: 'https://twitter.com/',
 				},
 				{
 					name: 'Reddit',
 					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
-				},
-				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
+					name: 'Instagram',
+					link: 'https://www.instagram.com/m',
 				},
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'library',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'Laboratório',
+					link: 'https://servicos.aridesa.com.br/lab-redacao/',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'G Scholar',
+					link: 'libgen',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'LibGen',
+					link: 'libgen.rs',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'SciHub',
+					link: 'https://sci-hub.se/',
 				},
 			],
 		},
