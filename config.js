@@ -162,10 +162,10 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Chill',
-					link: 'https://www.youtube.com/watch?v=my_19a4qLhU&list=PLFNLKOZd9ZgfnYxRqSvVC2F28T8htPh16&index=1',
+					link: 'https://vid.puffyan.us/watch?v=my_19a4qLhU&list=PLFNLKOZd9ZgfnYxRqSvVC2F28T8htPh16&index=0',
 				},
 				{
-					name: 'Mangadex',
+					name: 'Mangá',
 					link: 'https://mangadex.org/',
 				},
 				{
@@ -209,8 +209,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Laboratório',
-					link: 'https://servicos.aridesa.com.br/lab-redacao/',
+					name: 'Ari',
+					link: 'https://login.aridesa.com.br/',
 				},
 				{
 					name: 'G Scholar',
