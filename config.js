@@ -209,8 +209,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Ari',
-					link: 'https://login.aridesa.com.br/',
+					name: 'Livros',
+					link: 'https://livrosdigitais.portalsas.com.br/estante/',
 				},
 				{
 					name: 'G Scholar',
