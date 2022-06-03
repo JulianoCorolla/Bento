@@ -161,8 +161,8 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Chill',
-					link: 'https://vid.puffyan.us/watch?v=my_19a4qLhU&list=PLFNLKOZd9ZgfnYxRqSvVC2F28T8htPh16&index=0',
+					name: 'Youtube',
+					link: 'https://vid.puffyan.us/feed/popular',
 				},
 				{
 					name: 'Mangá',
@@ -200,7 +200,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Instagram',
-					link: 'https://www.instagram.com/m',
+					link: 'https://www.instagram.com',
 				},
 			],
 		},
