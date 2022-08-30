@@ -162,7 +162,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Youtube',
-					link: 'https://vid.puffyan.us/feed/popular',
+					link: 'https://tube.cadence.moe/',
 				},
 				{
 					name: 'Mangá',
