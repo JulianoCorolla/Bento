@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'https://www.youtube.com/c/BenEater/playlists',
 				},
 				{
-					name: 'Akita',
-					link: 'https://www.youtube.com/playlist?list=PLdsnXVqbHDUcQIuiH9b-i9A85H3A2ZW5W',
+					name: 'RoadMap',
+					link: 'https://roadmap.sh/',
 				},
 				{
 					name: 'Github',
@@ -170,7 +170,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Anime',
-					link: 'https://betteranime.net//',
+					link: 'https://nyaa.si/',
 				},
 				{
 					name: 'MAL',
@@ -210,7 +210,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Livros',
-					link: 'https://livrosdigitais.portalsas.com.br/estante/',
+					link: '/home/juliano/Documentos/livros',
 				},
 				{
 					name: 'G Scholar',
